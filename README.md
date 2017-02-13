@@ -1,6 +1,7 @@
-test readme sdfsdf
-new text adding
-asdasdsa
-1234567
+# Demo Test (Project) README
 
-new updates in new branch
+This is a simple readme file
+
+## Heading 2
+
+Just some updates, on a branch
